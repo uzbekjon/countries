@@ -2839,6 +2839,7 @@ FI:
   subregion: Northern Europe
   un_locode:
   languages:
+  - en
   - fi
   - sv
   nationality: Finnish
