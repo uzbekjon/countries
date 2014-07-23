@@ -9317,14 +9317,14 @@ US:
   - アメリカ合衆国
   - Verenigde Staten
   translations:
-    en: United States of America
+    en: International
     it: Stati Uniti D'America
     de: Vereinigte Staaten von Amerika
     fr: États-Unis
     es: Estados Unidos
     ja: アメリカ合衆国
     nl: Verenigde Staten
-    ru: Соединенные Штаты Америки
+    ru: Международный
   national_destination_code_lengths:
   - 3
   national_number_lengths:
